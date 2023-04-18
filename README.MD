@@ -1,5 +1,5 @@
 # Maldrina Havolli
-# Gjerat qe me pelqejne:
-# Leximi
-# Dizajni
-# Noti
+## Gjerat qe me pelqejne:
+### Leximi
+### Dizajni
+### Noti
